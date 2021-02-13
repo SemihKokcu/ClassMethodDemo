@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\lama_\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\lama_\\.nuget\\packages"
+    ]
+  }
+}
